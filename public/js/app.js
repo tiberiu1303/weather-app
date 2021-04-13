@@ -1,7 +1,3 @@
-console.log('test');
-
-
-
 const form = document.querySelector('form')
 const address = document.querySelector('input')
 let errorMessage = document.getElementById('error')
